@@ -1,0 +1,73 @@
+body{
+
+ 
+
+    background-color: rgb(255, 191, 191);
+
+    color: rgb(0, 53, 99);
+
+    font-family: sans-serif;
+
+    }
+
+
+
+    h1{
+
+        font-size:24px;
+
+        text-align: center;
+
+    }
+
+
+
+    .botao1,
+
+    .botao2{
+
+        text-decoration: none;
+
+        font-weight: bold;
+
+        font-size: 16px;
+
+        text-transform: uppercase;
+
+        border: 1px solid black;
+
+        display: inline-block;
+
+        padding: 10px;
+
+        margin-bottom: 20px;
+
+        width: 300px;
+
+    }
+
+
+
+    .botao1{
+
+        background-color: rgb(151, 182, 248);
+
+        border-color: black;
+
+        color: rgb(255, 255, 255);
+
+
+
+    }
+
+
+
+    .botao2{
+
+        background-color: rgb(216, 124, 167);
+
+        border-color: rgb(0, 0, 0);
+
+        color: white;
+
+    }
