@@ -1,6 +1,5 @@
-
+<!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
 
     <meta charset="UTF-8">
@@ -18,10 +17,9 @@
 <body>
     <h1>SGLanchonete 2.0 </h1>
 
-    <a href="#" class="botao1">cadastro de Produtos</a>
+    <a href="tela-produto.php" class="botao1">cadastro de Produtos</a>
 
-    <a href="#" class="botao2">cadastro de Pedidos</a>
+    <a href="cadastro.php" class="botao2">cadastro de Pedidos</a>
     
 </body>
-
 </html>
