@@ -19,7 +19,7 @@
 
     <a href="tela-produto.php" class="botao1">cadastro de Produtos</a>
 
-    <a href="cadastro.php" class="botao2">cadastro de Pedidos</a>
+    <a href="tela-pedido.php" class="botao2">cadastro de Pedidos</a>
     
 </body>
 </html>
