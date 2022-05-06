@@ -15,11 +15,13 @@
 </head>
 
 <body>
-    <h1>SGLanchonete 2.0 </h1>
+    <h1>Lanchonete do Ger </h1>
 
-    <a href="tela-produto.php" class="botao1">cadastro de Produtos</a>
+    <a href="tela-produto.php" class = "botao1">cadastro de Produtos</a>
 
-    <a href="tela-pedido.php" class="botao2">cadastro de Pedidos</a>
+    <a href="tela-pedido.php" class = "botao2">cadastro de Pedidos</a>
+
+    <a href ="lista-produtos.php" class = "botao3">Listar Produtos</a>
     
 </body>
 </html>

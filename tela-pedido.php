@@ -10,11 +10,16 @@
 <body>
 
     <h1>Cadastro de Pedidos<h1>
-
+    
  <form action="cadastra-pedido.php" method="post">
-    produtos:
-    <input name="produto" id="produto">
-    <br>
+
+    <li>
+        <label for ="produtos">produtos:</label>
+        <input name="produto" id="produto">
+        <br>
+    </li>
+
+
     Total:
     <input name="total" id="total">
     <br>

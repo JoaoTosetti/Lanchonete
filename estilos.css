@@ -1,73 +1,71 @@
 body{
-
- 
-
-    background-color: rgb(255, 191, 191);
-
+    background-color: rgb(197, 187, 241);
     color: rgb(0, 53, 99);
-
     font-family: sans-serif;
-
     }
-
-
 
     h1{
-
         font-size:24px;
-
         text-align: center;
-
     }
 
-
-
     .botao1,
-
-    .botao2{
-
+    .botao2,
+    .botao3{
         text-decoration: none;
-
         font-weight: bold;
-
         font-size: 16px;
-
         text-transform: uppercase;
-
         border: 1px solid black;
-
         display: inline-block;
-
         padding: 10px;
-
         margin-bottom: 20px;
-
         width: 300px;
 
     }
 
-
-
     .botao1{
-
-        background-color: rgb(151, 182, 248);
-
+        background-color: rgb(231, 109, 211);
         border-color: black;
-
         color: rgb(255, 255, 255);
-
-
-
     }
-
-
 
     .botao2{
-
-        background-color: rgb(216, 124, 167);
-
+        background-color: rgb(85, 211, 180);
         border-color: rgb(0, 0, 0);
-
         color: white;
-
     }
+
+    .botao3{
+        background-color: rgb(240, 117, 60);
+        border-color: black;
+        color: rgb(255, 255, 255);
+    }
+
+    \\ euuuuu
+
+    #todoform {
+        background:#4f4f4f; 
+        /* cor escura para o fundo do formulário */
+        
+        font:12px arial, verdana, helvetica, sans-serif; 
+        /* o tamanho e o tipo da fonte no formulário */
+        
+        border-top:8px solid #cfcfcf;
+        /* borda superior de 8px solida na cor cinza clara 
+        no formulário */
+        
+        border-left:8px solid #cfcfcf;
+        /* a borda esquerda do formulário */
+        
+        border-right:8px solid #696969; 
+        /* a borda direita do formulário */
+        
+        border-bottom:8px solid #696969; 
+        /* a borda inferior do formulário */
+        
+        border-collapse:collapse; 
+        /* retira as bordas duplas nas células da tabela */
+        
+        color:#ff9900; /* a cor laranja para as letras */
+     } 
